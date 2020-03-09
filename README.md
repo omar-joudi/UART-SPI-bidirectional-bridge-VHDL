@@ -1,6 +1,6 @@
 # GSoC-2020 (Apertus Challenge Task)
 ## UART - SPI bridge consisting of a simple UART and SPI master
-
+Note: ModelSim - Intel FPGA Starter Edition 10.5b was used in the building and simulation of this project.
 ### Overview:
 - Consists of separate and isolated UART and SPI master entities which work with different frequencies and can work  together as a bidirectional bridge.
 - Can handle different slave widths (from 1 to 16 bits).
