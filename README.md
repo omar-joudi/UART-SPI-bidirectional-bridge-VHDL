@@ -19,7 +19,7 @@ Note: ModelSim - Intel FPGA Starter Edition 10.5b was used in the building and s
 | - | - | - | - | - | - | - | - |
 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 
-Second byte (command 2):
+**Second byte (command 2):**
 
 | send/ receive | Word size (up to 16 bits) | - | - | - | Clock polarity | Clock phase | LSB first
 | - | - | - | - | - | - | - | - |
